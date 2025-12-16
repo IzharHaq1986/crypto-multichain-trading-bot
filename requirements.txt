@@ -1,0 +1,10 @@
+ccxt
+web3
+solana
+pandas
+numpy
+python-dotenv
+loguru
+requests
+matplotlib
+pandas

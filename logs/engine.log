@@ -1,0 +1,184 @@
+2025-12-10 09:16:04,336 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:05,338 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:06,339 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:07,340 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:08,341 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:09,342 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:10,344 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:11,345 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:12,346 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:13,347 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:14,349 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:15,350 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:16,352 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:17,354 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:18,356 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:19,358 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:20,360 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:21,361 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:22,362 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:23,363 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:24,364 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:25,365 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:26,366 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:27,367 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:28,368 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:29,369 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:30,370 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:31,371 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:16:32,372 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:23:54,671 - INFO - Loaded Solana client.
+2025-12-10 09:23:54,671 - INFO - Loaded strategy: MACD
+2025-12-10 09:23:54,671 - INFO - Bot engine started.
+2025-12-10 09:23:54,672 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-10 09:23:55,673 - INFO - MACD=0.0000, Signal=0.0000, Hist=0.0000, Diff=0.0000, Price=94.959
+2025-12-10 09:23:55,673 - INFO - NO-TRADE: Histogram 0.0000 < threshold 0.01
+2025-12-10 09:23:55,674 - INFO - No trade executed this cycle
+2025-12-10 09:23:56,674 - INFO - MACD=0.0199, Signal=0.0040, Hist=0.0160, Diff=0.0160, Price=95.209
+2025-12-10 09:23:56,674 - INFO - No trade executed this cycle
+2025-12-10 09:23:57,675 - INFO - MACD=0.0613, Signal=0.0154, Hist=0.0458, Diff=0.0458, Price=95.534
+2025-12-10 09:23:57,676 - INFO - No trade executed this cycle
+2025-12-10 09:23:58,677 - INFO - MACD=0.1104, Signal=0.0344, Hist=0.0760, Diff=0.0760, Price=95.753
+2025-12-10 09:23:58,677 - INFO - No trade executed this cycle
+2025-12-10 09:23:59,678 - INFO - MACD=0.1647, Signal=0.0605, Hist=0.1042, Diff=0.1042, Price=95.966
+2025-12-10 09:23:59,678 - INFO - No trade executed this cycle
+2025-12-10 09:24:00,679 - INFO - MACD=0.2422, Signal=0.0968, Hist=0.1454, Diff=0.1454, Price=96.429
+2025-12-10 09:24:00,679 - INFO - No trade executed this cycle
+2025-12-10 09:24:01,680 - INFO - MACD=0.2685, Signal=0.1312, Hist=0.1374, Diff=0.1374, Price=96.032
+2025-12-10 09:24:01,680 - INFO - No trade executed this cycle
+2025-12-10 09:24:02,681 - INFO - MACD=0.3005, Signal=0.1650, Hist=0.1355, Diff=0.1355, Price=96.213
+2025-12-10 09:24:02,681 - INFO - No trade executed this cycle
+2025-12-10 09:24:03,683 - INFO - MACD=0.3013, Signal=0.1923, Hist=0.1090, Diff=0.1090, Price=95.951
+2025-12-10 09:24:03,683 - INFO - No trade executed this cycle
+2025-12-10 09:24:04,684 - INFO - MACD=0.3160, Signal=0.2170, Hist=0.0990, Diff=0.0990, Price=96.171
+2025-12-10 09:24:04,684 - INFO - No trade executed this cycle
+2025-12-10 09:24:05,685 - INFO - MACD=0.2934, Signal=0.2323, Hist=0.0611, Diff=0.0611, Price=95.788
+2025-12-10 09:24:05,686 - INFO - No trade executed this cycle
+2025-12-10 09:24:06,687 - INFO - MACD=0.2546, Signal=0.2368, Hist=0.0178, Diff=0.0178, Price=95.566
+2025-12-10 09:24:06,687 - INFO - No trade executed this cycle
+2025-12-10 09:24:07,688 - INFO - MACD=0.2449, Signal=0.2384, Hist=0.0065, Diff=0.0065, Price=95.862
+2025-12-10 09:24:07,688 - INFO - NO-TRADE: Histogram 0.0065 < threshold 0.01
+2025-12-10 09:24:07,688 - INFO - No trade executed this cycle
+2025-12-10 09:24:08,690 - INFO - MACD=0.2512, Signal=0.2410, Hist=0.0103, Diff=0.0103, Price=96.071
+2025-12-10 09:24:08,690 - INFO - No trade executed this cycle
+2025-12-10 09:24:09,690 - INFO - MACD=0.2661, Signal=0.2460, Hist=0.0201, Diff=0.0201, Price=96.231
+2025-12-10 09:24:09,690 - INFO - No trade executed this cycle
+2025-12-10 09:24:10,692 - INFO - MACD=0.3097, Signal=0.2587, Hist=0.0510, Diff=0.0510, Price=96.671
+2025-12-10 09:24:10,692 - INFO - No trade executed this cycle
+2025-12-10 09:24:11,693 - INFO - MACD=0.3645, Signal=0.2799, Hist=0.0846, Diff=0.0846, Price=96.972
+2025-12-10 09:24:11,693 - INFO - No trade executed this cycle
+2025-12-10 09:24:12,694 - INFO - MACD=0.4054, Signal=0.3050, Hist=0.1004, Diff=0.1004, Price=97.0
+2025-12-10 09:24:12,695 - INFO - No trade executed this cycle
+2025-12-10 09:24:13,696 - INFO - MACD=0.4187, Signal=0.3277, Hist=0.0910, Diff=0.0910, Price=96.823
+2025-12-10 09:24:13,696 - INFO - No trade executed this cycle
+2025-12-10 09:24:14,698 - INFO - MACD=0.4213, Signal=0.3464, Hist=0.0749, Diff=0.0749, Price=96.784
+2025-12-10 09:24:14,698 - INFO - No trade executed this cycle
+2025-12-10 09:24:15,698 - INFO - MACD=0.4314, Signal=0.3634, Hist=0.0679, Diff=0.0679, Price=96.945
+2025-12-10 09:24:15,699 - INFO - No trade executed this cycle
+2025-12-10 09:24:16,700 - INFO - MACD=0.3957, Signal=0.3699, Hist=0.0258, Diff=0.0258, Price=96.461
+2025-12-10 09:24:16,700 - INFO - No trade executed this cycle
+2025-12-10 09:24:17,701 - INFO - MACD=0.3764, Signal=0.3712, Hist=0.0052, Diff=0.0052, Price=96.625
+2025-12-10 09:24:17,702 - INFO - NO-TRADE: Histogram 0.0052 < threshold 0.01
+2025-12-10 09:24:17,702 - INFO - No trade executed this cycle
+2025-12-10 09:24:18,702 - INFO - MACD=0.3848, Signal=0.3739, Hist=0.0109, Diff=0.0109, Price=96.975
+2025-12-10 09:24:18,703 - INFO - No trade executed this cycle
+2025-12-10 09:24:19,704 - INFO - MACD=0.4105, Signal=0.3812, Hist=0.0292, Diff=0.0292, Price=97.268
+2025-12-10 09:24:19,704 - INFO - No trade executed this cycle
+2025-12-10 09:24:20,706 - INFO - MACD=0.3917, Signal=0.3833, Hist=0.0084, Diff=0.0084, Price=96.84
+2025-12-10 09:24:20,706 - INFO - NO-TRADE: Histogram 0.0084 < threshold 0.01
+2025-12-10 09:24:20,706 - INFO - No trade executed this cycle
+2025-12-10 09:24:21,707 - INFO - MACD=0.3365, Signal=0.3740, Hist=-0.0375, Diff=-0.0375, Price=96.388
+2025-12-11 04:29:09,323 - INFO - Loaded Solana client.
+2025-12-11 04:29:09,334 - INFO - Loaded strategy: MACD
+2025-12-11 04:29:09,334 - INFO - Bot engine started.
+2025-12-11 04:29:09,337 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-11 04:29:10,338 - INFO - MACD=0.0, Signal=0.0, Hist=0.0, Diff=0.0, NormHist=0.0, NormDiff=0.0, ATR=0.49, ATR%=0.005173, Price=94.714
+2025-12-11 04:29:10,338 - INFO - No trade executed this cycle
+2025-12-11 04:29:11,339 - INFO - MACD=0.016353, Signal=0.003271, Hist=0.013083, Diff=0.013083, NormHist=0.028944, NormDiff=0.028944, ATR=0.452, ATR%=0.004762, Price=94.919
+2025-12-11 04:29:11,339 - INFO - No trade executed this cycle
+2025-12-11 04:29:12,341 - INFO - MACD=0.064159, Signal=0.015448, Hist=0.048711, Diff=0.048711, NormHist=0.108117, NormDiff=0.108117, ATR=0.450533, ATR%=0.004725, Price=95.36
+2025-12-11 04:29:12,341 - INFO - No trade executed this cycle
+2025-12-11 04:29:13,343 - INFO - MACD=0.106147, Signal=0.033588, Hist=0.072559, Diff=0.072559, NormHist=0.181733, NormDiff=0.181733, ATR=0.399262, ATR%=0.004184, Price=95.426
+2025-12-11 04:29:13,343 - INFO - No trade executed this cycle
+2025-12-11 04:29:14,344 - INFO - MACD=0.172216, Signal=0.061314, Hist=0.110902, Diff=0.110902, NormHist=0.274855, NormDiff=0.274855, ATR=0.403494, ATR%=0.004209, Price=95.857
+2025-12-11 04:29:14,344 - INFO - No trade executed this cycle
+2025-12-11 04:29:15,345 - INFO - MACD=0.20686, Signal=0.090423, Hist=0.116437, Diff=0.116437, NormHist=0.310476, NormDiff=0.310476, ATR=0.375028, ATR%=0.00392, Price=95.667
+2025-12-11 04:29:15,346 - INFO - No trade executed this cycle
+2025-12-11 04:29:16,347 - INFO - MACD=0.222871, Signal=0.116912, Hist=0.105958, Diff=0.105958, NormHist=0.311925, NormDiff=0.311925, ATR=0.339691, ATR%=0.003555, Price=95.557
+2025-12-11 04:29:16,347 - INFO - No trade executed this cycle
+2025-12-11 04:29:17,348 - INFO - MACD=0.242527, Signal=0.142035, Hist=0.100492, Diff=0.100492, NormHist=0.323611, NormDiff=0.323611, ATR=0.310532, ATR%=0.003246, Price=95.678
+2025-12-11 04:29:17,348 - INFO - No trade executed this cycle
+2025-12-11 04:29:18,349 - INFO - MACD=0.239289, Signal=0.161486, Hist=0.077803, Diff=0.077803, NormHist=0.263149, NormDiff=0.263149, ATR=0.295661, ATR%=0.003097, Price=95.479
+2025-12-11 04:29:18,349 - INFO - No trade executed this cycle
+2025-12-11 04:29:19,350 - INFO - MACD=0.220942, Signal=0.173377, Hist=0.047565, Diff=0.047565, NormHist=0.171032, NormDiff=0.171032, ATR=0.278106, ATR%=0.002918, Price=95.315
+2025-12-11 04:29:19,350 - INFO - No trade executed this cycle
+2025-12-11 04:29:20,352 - INFO - MACD=0.182113, Signal=0.175124, Hist=0.006989, Diff=0.006989, NormHist=0.025167, NormDiff=0.025167, ATR=0.277692, ATR%=0.002922, Price=95.04
+2025-12-11 04:29:20,352 - INFO - No trade executed this cycle
+2025-12-11 04:29:21,353 - INFO - MACD=0.116032, Signal=0.163306, Hist=-0.047274, Diff=-0.047274, NormHist=-0.159279, NormDiff=-0.159279, ATR=0.2968, ATR%=0.003137, Price=94.619
+2025-12-11 04:29:25,366 - INFO - MACD=0.039882, Signal=0.138621, Hist=-0.098739, Diff=-0.098739, NormHist=-0.333848, NormDiff=-0.333848, ATR=0.29576, ATR%=0.003135, Price=94.33
+2025-12-11 04:29:25,366 - INFO - No trade executed this cycle
+2025-12-11 04:29:26,368 - INFO - MACD=-0.056689, Signal=0.099559, Hist=-0.156248, Diff=-0.156248, NormHist=-0.492495, NormDiff=-0.492495, ATR=0.317259, ATR%=0.00338, Price=93.873
+2025-12-11 04:29:26,368 - INFO - No trade executed this cycle
+2025-12-11 04:29:27,370 - INFO - MACD=-0.166246, Signal=0.046398, Hist=-0.212644, Diff=-0.212644, NormHist=-0.639164, NormDiff=-0.639164, ATR=0.332691, ATR%=0.00356, Price=93.44
+2025-12-11 04:29:27,370 - INFO - No trade executed this cycle
+2025-12-11 04:29:28,371 - INFO - MACD=-0.233036, Signal=-0.009489, Hist=-0.223547, Diff=-0.223547, NormHist=-0.705198, NormDiff=-0.705198, ATR=0.316999, ATR%=0.003385, Price=93.655
+2025-12-11 04:29:28,371 - INFO - No trade executed this cycle
+2025-12-11 04:29:29,372 - INFO - MACD=-0.310628, Signal=-0.069716, Hist=-0.240912, Diff=-0.240912, NormHist=-0.749572, NormDiff=-0.749572, ATR=0.321399, ATR%=0.003445, Price=93.305
+2025-12-11 04:29:29,372 - INFO - No trade executed this cycle
+2025-12-11 05:13:41,270 - INFO - Loaded Solana client.
+2025-12-11 05:13:41,270 - INFO - Loaded strategy: MACD
+2025-12-11 05:13:41,270 - INFO - Bot engine started.
+2025-12-11 05:13:41,273 - INFO - ATR filter: volatility too low → skipping cycle
+2025-12-11 05:13:42,274 - INFO - MACD=0.0, SIGNAL=0.0, HIST=0.0, DIFF=0.0, NORM_HIST=0.0, NORM_DIFF=0.0, ATR=0.137, ATR%=0.001436
+2025-12-11 05:13:42,274 - INFO - NO-TRADE: NormHist 0.0 < 0.2
+2025-12-11 05:13:42,274 - INFO - No trade executed this cycle
+2025-12-11 05:13:43,275 - INFO - MACD=0.036217, SIGNAL=0.007243, HIST=0.028973, DIFF=0.028973, NORM_HIST=0.161621, NORM_DIFF=0.161621, ATR=0.179267, ATR%=0.00187
+2025-12-11 05:13:43,275 - INFO - NO-TRADE: NormHist 0.161621 < 0.2
+2025-12-11 05:13:43,276 - INFO - No trade executed this cycle
+2025-12-11 05:13:44,277 - INFO - MACD=0.061785, SIGNAL=0.018152, HIST=0.043634, DIFF=0.043634, NORM_HIST=0.273798, NORM_DIFF=0.273798, ATR=0.159364, ATR%=0.001663
+2025-12-11 05:13:44,278 - INFO - No trade executed this cycle
+2025-12-11 05:13:45,279 - INFO - MACD=0.063724, SIGNAL=0.027266, HIST=0.036457, DIFF=0.036457, NORM_HIST=0.21807, NORM_DIFF=0.21807, ATR=0.167183, ATR%=0.001749
+2025-12-11 05:13:45,279 - INFO - No trade executed this cycle
+2025-12-11 05:13:46,281 - INFO - MACD=0.035878, SIGNAL=0.028988, HIST=0.006889, DIFF=0.006889, NORM_HIST=0.035741, NORM_DIFF=0.035741, ATR=0.192758, ATR%=0.002024
+2025-12-11 05:13:46,281 - INFO - NO-TRADE: NormHist 0.035741 < 0.2
+2025-12-11 05:13:46,281 - INFO - No trade executed this cycle
+2025-12-11 05:13:47,282 - INFO - MACD=-0.012672, SIGNAL=0.020656, HIST=-0.033329, DIFF=-0.033329, NORM_HIST=-0.157913, NORM_DIFF=-0.157913, ATR=0.211057, ATR%=0.002223
+2025-12-11 05:13:47,282 - INFO - NO-TRADE: NormHist -0.157913 < 0.2
+2025-12-11 05:13:47,282 - INFO - No trade executed this cycle
+2025-12-11 05:13:48,283 - INFO - MACD=-0.064925, SIGNAL=0.00354, HIST=-0.068465, DIFF=-0.068465, NORM_HIST=-0.330883, NORM_DIFF=-0.330883, ATR=0.206916, ATR%=0.002184
+2025-12-11 05:13:52,294 - INFO - MACD=-0.074332, SIGNAL=-0.012034, HIST=-0.062297, DIFF=-0.062297, NORM_HIST=-0.269926, NORM_DIFF=-0.269926, ATR=0.230794, ATR%=0.002426
+2025-12-11 05:13:52,295 - INFO - NO-TRADE: Cooldown 0/5
+2025-12-11 05:13:52,295 - INFO - No trade executed this cycle
+2025-12-11 05:13:53,296 - INFO - MACD=-0.056524, SIGNAL=-0.020932, HIST=-0.035592, DIFF=-0.035592, NORM_HIST=-0.147875, NORM_DIFF=-0.147875, ATR=0.240688, ATR%=0.002522
+2025-12-11 05:13:53,296 - INFO - NO-TRADE: NormHist -0.147875 < 0.2
+2025-12-11 05:13:53,296 - INFO - No trade executed this cycle
+2025-12-11 05:13:54,297 - INFO - MACD=-0.065141, SIGNAL=-0.029774, HIST=-0.035367, DIFF=-0.035367, NORM_HIST=-0.142959, NORM_DIFF=-0.142959, ATR=0.247396, ATR%=0.0026
+2025-12-11 05:13:54,297 - INFO - NO-TRADE: NormHist -0.142959 < 0.2
+2025-12-11 05:13:54,297 - INFO - No trade executed this cycle
+2025-12-11 05:13:55,299 - INFO - MACD=-0.037966, SIGNAL=-0.031412, HIST=-0.006553, DIFF=-0.006553, NORM_HIST=-0.024282, NORM_DIFF=-0.024282, ATR=0.269877, ATR%=0.002824
+2025-12-11 05:13:55,299 - INFO - NO-TRADE: NormHist -0.024282 < 0.2
+2025-12-11 05:13:55,300 - INFO - No trade executed this cycle
+2025-12-11 05:13:56,301 - INFO - MACD=-0.033392, SIGNAL=-0.031808, HIST=-0.001584, DIFF=-0.001584, NORM_HIST=-0.006033, NORM_DIFF=-0.006033, ATR=0.26256, ATR%=0.002754
+2025-12-11 05:13:56,301 - INFO - NO-TRADE: NormHist -0.006033 < 0.2
+2025-12-11 05:13:56,301 - INFO - No trade executed this cycle
+2025-12-11 05:13:57,302 - INFO - MACD=-0.055275, SIGNAL=-0.036502, HIST=-0.018773, DIFF=-0.018773, NORM_HIST=-0.069337, NORM_DIFF=-0.069337, ATR=0.270752, ATR%=0.002849
+2025-12-11 05:13:57,302 - INFO - NO-TRADE: NormHist -0.069337 < 0.2
+2025-12-11 05:13:57,303 - INFO - No trade executed this cycle
+2025-12-11 05:13:58,304 - INFO - MACD=-0.094844, SIGNAL=-0.04817, HIST=-0.046674, DIFF=-0.046674, NORM_HIST=-0.17085, NORM_DIFF=-0.17085, ATR=0.273185, ATR%=0.002884
+2025-12-11 05:13:58,304 - INFO - NO-TRADE: NormHist -0.17085 < 0.2
+2025-12-11 05:13:58,304 - INFO - No trade executed this cycle
+2025-12-11 05:13:59,306 - INFO - MACD=-0.158747, SIGNAL=-0.070285, HIST=-0.088461, DIFF=-0.088461, NORM_HIST=-0.30134, NORM_DIFF=-0.30134, ATR=0.29356, ATR%=0.003113
+2025-12-11 05:13:59,306 - INFO - NO-TRADE: Cooldown 1/5
+2025-12-11 05:13:59,306 - INFO - No trade executed this cycle
+2025-12-11 05:14:00,308 - INFO - MACD=-0.170309, SIGNAL=-0.09029, HIST=-0.080019, DIFF=-0.080019, NORM_HIST=-0.253423, NORM_DIFF=-0.253423, ATR=0.315752, ATR%=0.003332
+2025-12-11 05:14:00,308 - INFO - NO-TRADE: Cooldown 2/5
+2025-12-11 05:14:00,308 - INFO - No trade executed this cycle
+2025-12-11 05:14:01,308 - INFO - MACD=-0.167057, SIGNAL=-0.105643, HIST=-0.061413, DIFF=-0.061413, NORM_HIST=-0.211053, NORM_DIFF=-0.211053, ATR=0.290985, ATR%=0.003066
+2025-12-11 05:14:01,309 - INFO - NO-TRADE: Cooldown 3/5
+2025-12-11 05:14:01,309 - INFO - No trade executed this cycle
+2025-12-11 05:14:02,310 - INFO - MACD=-0.165556, SIGNAL=-0.117626, HIST=-0.04793, DIFF=-0.04793, NORM_HIST=-0.186412, NORM_DIFF=-0.186412, ATR=0.257121, ATR%=0.002711
+2025-12-11 05:14:02,310 - INFO - NO-TRADE: NormHist -0.186412 < 0.2
+2025-12-11 05:14:02,310 - INFO - No trade executed this cycle
+2025-12-11 05:14:03,311 - INFO - MACD=-0.130346, SIGNAL=-0.12017, HIST=-0.010176, DIFF=-0.010176, NORM_HIST=-0.036793, NORM_DIFF=-0.036793, ATR=0.276571, ATR%=0.002903
+2025-12-11 05:14:03,311 - INFO - NO-TRADE: NormHist -0.036793 < 0.2
+2025-12-11 05:14:03,311 - INFO - No trade executed this cycle

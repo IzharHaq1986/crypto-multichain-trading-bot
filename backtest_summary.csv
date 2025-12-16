@@ -1,0 +1,2 @@
+timestamp,symbol,start_date,end_date,total_return_pct,max_drawdown_pct,num_trades,win_rate_pct,sharpe_ratio,sortino_ratio
+2025-12-15T10:11:34.078939+00:00,AAPL,2020-01-01,2024-01-01,35.09519717468264,-12.408193613063826,5,53.65384615384615,0.8655767667898502,0.9749998653324856

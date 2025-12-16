@@ -1,0 +1,80 @@
+# ======================================================================
+# example_config.yaml
+#
+# Configuration file for the MACD trading strategy.
+# All strategy behavior is controlled from this file.
+# No code changes are required after editing values here.
+# ======================================================================
+
+strategy:
+
+  # ------------------------------------------------------------------
+  # MACD indicator parameters
+  # ------------------------------------------------------------------
+  macd:
+    fast_period: 12          # Fast EMA period
+    slow_period: 26          # Slow EMA period
+    signal_period: 9         # Signal line EMA period
+
+  # ------------------------------------------------------------------
+  # Normalized MACD configuration
+  # Used to scale MACD into range [-1, +1]
+  # ------------------------------------------------------------------
+  normalization:
+    window: 200              # Rolling window for min/max normalization
+
+  # ------------------------------------------------------------------
+  # Trading signal thresholds
+  # BUY when normalized_macd <= normalized_buy
+  # SELL when normalized_macd >= normalized_sell
+  # ------------------------------------------------------------------
+  thresholds:
+    normalized_buy: -0.60    # Higher value = more BUY signals
+    normalized_sell: 0.80    # Lower value = earlier SELL signals
+
+  # ------------------------------------------------------------------
+  # Position sizing (risk-based)
+  # ------------------------------------------------------------------
+  position_sizing:
+    enabled: true            # Enable or disable dynamic sizing
+    account_balance: 10000   # Starting account balance
+    risk_per_trade: 0.01     # Risk 1% of balance per trade
+    stop_loss_pct: 0.02      # Assumed stop-loss distance (2%)
+
+  # ------------------------------------------------------------------
+  # Transaction cost model
+  # ------------------------------------------------------------------
+  commission_per_trade: 1.0  # Flat commission per BUY or SELL ($)
+  slippage_pct: 0.001        # Slippage per trade (0.1%)
+
+  # ------------------------------------------------------------------
+  # Trade logging
+  # ------------------------------------------------------------------
+  log_trades: true           # Save trade_log.csv (disable during sweeps)
+
+  # ------------------------------------------------------------------
+  # Backtest settings
+  # ------------------------------------------------------------------
+  backtest:
+    initial_capital: 10000   # Starting capital for backtest
+    symbol: AAPL             # Asset symbol
+    start_date: "2020-01-01" # Backtest start date
+    end_date: "2024-01-01"   # Backtest end date
+
+
+# ======================================================================
+# Notes:
+#
+# - To increase trade frequency:
+#     * Raise normalized_buy (e.g. -0.50)
+#     * Lower normalized_sell (e.g. 0.70)
+#
+# - To reduce risk:
+#     * Lower risk_per_trade
+#     * Increase stop_loss_pct
+#
+# - To disable CSV trade logging during parameter sweeps:
+#     * Set log_trades: false
+#
+# - Commission and slippage significantly affect performance realism.
+# ======================================================================
