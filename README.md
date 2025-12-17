@@ -112,23 +112,13 @@ Testing is performed in a non-production environment
 
 The system is organized into clear functional layers:
 
-# Strategy Layer
-Implements trading logic and decision rules.
+- **Strategy Layer**: Implements trading logic and decision rules.
+- **Execution Layer**: Manages order placement and transaction lifecycle.
+- **Adapter Layer**: Abstracts blockchain networks and exchange-specific behavior.
+- **Configuration Layer**: Centralizes runtime parameters and environment settings.
+- **Logging and Monitoring**: Records system behavior, decisions, and execution outcomes.
 
-# Execution Layer
-Manages order placement and transaction lifecycle.
-
-# Adapter Layer
-Abstracts blockchain networks and exchange-specific behavior.
-
-# Configuration Layer
-Centralizes runtime parameters and environment settings.
-
-# Logging and Monitoring
-Records system behavior, decisions, and execution outcomes.
-
-High-level flow:
-strategy evaluation → execution → confirmation → logging.
+High-level flow: strategy evaluation → execution → confirmation → logging.
 
 ---
 
