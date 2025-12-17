@@ -8,3 +8,4 @@ loguru
 requests
 matplotlib
 pandas
+yfinance
