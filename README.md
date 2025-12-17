@@ -1,3 +1,5 @@
+![Release](https://img.shields.io/github/v/release/IzharHaq1986/crypto-multichain-trading-bot)
+
 Multi-Chain Crypto Trading Bot Framework
 
 This repository demonstrates how I design and structure automated crypto trading systems intended to run across multiple chains and exchanges.
