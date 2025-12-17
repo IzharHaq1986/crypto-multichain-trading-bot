@@ -36,24 +36,23 @@ The following screenshots illustrate key aspects of the system, including execut
 
 ### Strategy Execution
 Shows a complete strategy run, including data loading, indicator execution, and performance summary.
-```md```
-![Strategy Execution](docs/screenshots/strategy_execution.png)
+![Strategy Execution](docs/strategy_execution.png)
 
-# Dashboard Output
+#### Dashboard Output
 Visual dashboard generated after strategy execution, summarizing results and indicators.
-![Dashboard Output](docs/screenshots/dashboard_output.png)
+![Dashboard Output](docs/dashboard_output.png)
 
-# Equity and Drawdown
+#### Equity and Drawdown
 Equity curve and drawdown visualization generated from the backtest.
-![Equity and Drawdown](docs/screenshots/equity_drawdown.png)
+![Equity and Drawdown](docs/equity_drawdown.png)
 
-# Trade Log
+#### Trade Log
 Tabular view of executed trades captured during the run.
-![Trade Log](docs/screenshots/trade_log.png)
+![Trade Log](docs/trade_log.png)
 
-# Strategy Configuration
+#### Strategy Configuration
 Combined view of strategy parameters, thresholds, risk settings, and backtest configuration.
-![Strategy Configuration](docs/screenshots/config_strategy_parameters.png)
+![Strategy Configuration](docs/config_strategy_parameters.png)
 
 
 ```text
