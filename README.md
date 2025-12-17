@@ -2,7 +2,7 @@
 
 ![Release](https://img.shields.io/github/v/release/IzharHaq1986/crypto-multichain-trading-bot?display_name=tag&sort=semver)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/github/license/IzharHaq1986/crypto-multichain-trading-bot)
+![License](https://img.shields.io/github/license/IzharHaq1986/crypto-multichain-trading-bot?branch=main)
 ![Last Commit](https://img.shields.io/github/last-commit/IzharHaq1986/crypto-multichain-trading-bot)
 
 ---
