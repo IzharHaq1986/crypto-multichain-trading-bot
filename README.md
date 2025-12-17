@@ -123,6 +123,7 @@ High-level flow: strategy evaluation → execution → confirmation → logging.
 ---
 
 ## Project Structure
+```text
 .
 ├── strategies/          # Trading strategy implementations
 ├── execution/           # Order execution and transaction handling
@@ -133,7 +134,7 @@ High-level flow: strategy evaluation → execution → confirmation → logging.
 │   └── screenshots/     # Runtime screenshots
 ├── requirements.txt     # Dependency list
 └── README.md
-
+```
 ---
 
 ### Notes and Limitations
